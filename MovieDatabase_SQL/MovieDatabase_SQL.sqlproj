@@ -58,4 +58,12 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Movie.sql" />
+    <Build Include="Person.sql" />
+    <Build Include="Review.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="MovieDatabase_SQL.refactorlog" />
+  </ItemGroup>
 </Project>
